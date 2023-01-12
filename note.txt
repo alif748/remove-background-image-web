@@ -1,0 +1,3 @@
+python -m pipreqs.pipreqs .
+
+docker build -t alif748/rmbg .
